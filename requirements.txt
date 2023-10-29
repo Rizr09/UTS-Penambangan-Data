@@ -2,7 +2,5 @@ streamlit
 pandas
 matplotlib
 wordcloud
-re
 Sastrawi
 sklearn
-ast
